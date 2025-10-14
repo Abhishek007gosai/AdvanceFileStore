@@ -13,7 +13,7 @@ SHORT_API = ""
 SHORT_TUT = ""
 
 # Bot Configuration
-SESSION = ""
+SESSION = "yato"
 TOKEN = ""
 API_ID = ""
 API_HASH = ""
