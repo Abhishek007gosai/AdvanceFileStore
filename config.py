@@ -20,7 +20,7 @@ API_HASH = ""
 WORKERS = 5
 
 DB_URI = ""
-DB_NAME = ""
+DB_NAME = "cluster0"
 
 FSUBS = [[-1001457313028, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
