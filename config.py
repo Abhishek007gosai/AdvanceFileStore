@@ -15,8 +15,8 @@ SHORT_TUT = ""
 # Bot Configuration
 SESSION = "yato"
 TOKEN = ""
-API_ID = ""
-API_HASH = ""
+API_ID = "23537462"
+API_HASH = "c9599a5aa61ee8ca4f5e778d20c61f24"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://kayaxrobot:yzSgHQLteJCTXUqK@cluster0.ltk8k8h.mongodb.net/"
