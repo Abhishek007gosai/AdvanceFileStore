@@ -35,8 +35,8 @@ AUTO_DEL = 300
 # Admin IDs
 ADMINS = [7654385403]
 # Bot Settings
-DISABLE_BTN = True
-PROTECT = True
+DISABLE_BTN = False
+PROTECT = False
 
 # Messages Configuration
 MESSAGES = {
