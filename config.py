@@ -22,7 +22,7 @@ WORKERS = 5
 DB_URI = "mongodb+srv://Kafka:uNOZKCNhDL7lbOiv@cluster0.36g1xc1.mongodb.net/?retryWrites=true&w=majority"
 DB_NAME = "cluster0"
 
-FSUBS = [[-1001457313028, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1002369123167, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL = -1002497924209  # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
