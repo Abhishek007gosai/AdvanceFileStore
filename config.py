@@ -14,12 +14,12 @@ SHORT_TUT = "https://t.me/+wekKcN1tjbAxY2U1"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "8032524555:AAGhTi7B_qHjrpqQPuYUPq1lvt2I0xsB6_A"
-API_ID = "23537462"
-API_HASH = "c9599a5aa61ee8ca4f5e778d20c61f24"
+TOKEN = ""
+API_ID = ""
+API_HASH = ""
 WORKERS = 5
 
-DB_URI = "mongodb+srv://kayaxrobot:yzSgHQLteJCTXUqK@cluster0.ltk8k8h.mongodb.net/"
+DB_URI = "mong/"
 DB_NAME = "cluster0"
 
 FSUBS = [[-1001457313028, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
