@@ -9,17 +9,17 @@ OWNER_ID = 7654385403
 MSG_EFFECT = 5046509860389126442
 
 SHORT_URL = "shortxlinks.com/" # shortner url 
-SHORT_API = "64d631b036df348caab852591a09288cbf5b6809" 
+SHORT_API = "" 
 SHORT_TUT = "https://t.me/+wekKcN1tjbAxY2U1"
 
 # Bot Configuration
 SESSION = "Kaya"
-TOKEN = "7788012745:AAF3HEqGLIihH_ugBySdgGYu3WT162GhFLY"
-API_ID = "23537462"
-API_HASH = "c9599a5aa61ee8ca4f5e778d20c61f24"
+TOKEN = ""
+API_ID = ""
+API_HASH = ""
 WORKERS = 5
 
-DB_URI = "mongodb+srv://Kafka:uNOZKCNhDL7lbOiv@cluster0.36g1xc1.mongodb.net/?retryWrites=true&w=majority"
+DB_URI = ""
 DB_NAME = "cluster0"
 
 FSUBS = [[-1002369123167, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
