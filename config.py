@@ -14,7 +14,7 @@ SHORT_TUT = "https://t.me/+wekKcN1tjbAxY2U1"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = ""
+TOKEN = "8032524555:AAGhTi7B_qHjrpqQPuYUPq1lvt2I0xsB6_A"
 API_ID = "23537462"
 API_HASH = "c9599a5aa61ee8ca4f5e778d20c61f24"
 WORKERS = 5
