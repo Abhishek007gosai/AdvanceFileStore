@@ -13,7 +13,7 @@ SHORT_API = "64d631b036df348caab852591a09288cbf5b6809"
 SHORT_TUT = "https://t.me/+wekKcN1tjbAxY2U1"
 
 # Bot Configuration
-SESSION = "yato"
+SESSION = "Kaya"
 TOKEN = "8032524555:AAGhTi7B_qHjrpqQPuYUPq1lvt2I0xsB6_A"
 API_ID = "23537462"
 API_HASH = "c9599a5aa61ee8ca4f5e778d20c61f24"
