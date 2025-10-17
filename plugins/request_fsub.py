@@ -211,7 +211,7 @@ async def list_force_sub_channels(client: Client, message: Message):
         try:
             chat = await client.get_chat(ch_id)
             link = chat.invite_link or await client.export_chat_invite_link(chat.id)
-            result += f"<b>•</b> <a href='{link}'>{chat.title}</a> [<code>{ch_id}</code>]\n"
+            result += f"<b>• Channel: </b> <a href='{link}'>{chat.title}</a>\n [<code>{ch_id}</code>]\n"
         except Exception:
             result += f"<b>•</b> <code>{ch_id}</code> — <i>Unavailable</i>\n"
 
