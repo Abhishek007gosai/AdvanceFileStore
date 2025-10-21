@@ -14,17 +14,17 @@ SHORT_TUT = "https://t.me/+wekKcN1tjbAxY2U1"
 
 # Bot Configuration
 SESSION = "Kaya"
-TOKEN = ""
-API_ID = ""
-API_HASH = ""
+TOKEN = "7829490863:AAG0sQQwM4Vgk0tLH2-uvvm9BGE6BML1sI0"
+API_ID = "23537462"
+API_HASH = "c9599a5aa61ee8ca4f5e778d20c61f24"
 WORKERS = 5
 
-DB_URI = ""
-DB_NAME = "cluster0"
+DB_URI = "mongodb+srv://toukarenamebot:FAc45CUILd6uwYpn@toukaxbot.sssw7ob.mongodb.net/?retryWrites=true&w=majority&appName=toukaxbot"
+DB_NAME = "toukaxbot"
 
-FSUBS = [[-1002369123167, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1001457313028, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL = -1002497924209  # just put channel id dont add ""
+DB_CHANNEL = -1003127090925 # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
