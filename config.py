@@ -14,12 +14,12 @@ SHORT_TUT = "https://t.me/+wekKcN1tjbAxY2U1"
 
 # Bot Configuration
 SESSION = "Kaya"
-TOKEN = ""
-API_ID = ""
-API_HASH = ""
+TOKEN = "7845096754:AAG9ll3MheYR4tOOLbBq7pnzrufPH-_KkLA"
+API_ID = "29245477"
+API_HASH = "0abc83883262245c90ca337b7a0375c4"
 WORKERS = 5
 
-DB_URI = ""
+DB_URI = "mongodb+srv://kiraxsen:X3Wwe9Fc8h4u8nHw@cluster0.yfn0lmh.mongodb.net/"
 DB_NAME = "toukaxbot"
 
 FSUBS = [[-1001457313028, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
